@@ -10,4 +10,5 @@ function Counter() {
   return <button onClick={increment}>I have been clicked {count} times</button>;
 }
 
+//nderstood
 export default Counter;
